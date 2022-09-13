@@ -4,7 +4,7 @@
 ```
 This requires a credential file placed at /home/user/.smb that looks like this:
 ```
-username=yourusername
+user=yourusername
 password=yourpassword
 domain=yourdomain
 ```
